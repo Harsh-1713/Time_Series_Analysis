@@ -1,4 +1,4 @@
-# Time_Series_Analysis
+# TimeSeriesAnalysis
 
 Time series data is a collection of variables whose values depend on time. Analyzing time-series data is trivial with Python, but with SQL, it becomes a pretty challenging task.
 
